@@ -1,0 +1,8 @@
+# Agregar al pubspec.yaml del proyecto existente
+dependencies:
+  google_fonts: ^6.2.1
+  qr_flutter: ^4.1.0
+
+flutter:
+  assets:
+    - assets/credencial/
